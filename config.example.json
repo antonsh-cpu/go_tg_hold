@@ -1,0 +1,17 @@
+
+{
+  "spreadsheet_id": "Insert_path",
+  "sheet_name": "test-tg-auth",
+  "service_account_file": "Insert_path",
+  "country_code": "US",
+  "period_days": 30,
+  "accounts_per_proxy": 2,
+  "max_price": 6,
+  "sessions_dir": "sessions",
+  "state_dir": "state",
+  "pause_between_logins": 30,
+  "images_dir": "images",
+  "min_age": 22,
+  "max_age": 40,
+  "pause_between_profiles": 15
+}
